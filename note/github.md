@@ -19,3 +19,7 @@ how to ake git available on your project
 3]comitt stage
 
 in oder to know weather i have comiited my file or not by (git log --oneline) in vs code terminal
+
+repository are of two types
+1]local repository - at your own system
+2]remote repository - at central code base
